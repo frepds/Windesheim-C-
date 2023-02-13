@@ -1,0 +1,15 @@
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/bin/Debug/net7.0/RaceSim
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/bin/Debug/net7.0/RaceSim.deps.json
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/bin/Debug/net7.0/RaceSim.runtimeconfig.json
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/bin/Debug/net7.0/RaceSim.dll
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/bin/Debug/net7.0/RaceSim.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/RaceSim.csproj.AssemblyReference.cache
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/RaceSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/RaceSim.AssemblyInfoInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/RaceSim.AssemblyInfo.cs
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/RaceSim.csproj.CoreCompileInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/RaceSim.dll
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/refint/RaceSim.dll
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/RaceSim.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/RaceSim.genruntimeconfig.cache
+/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/Debug/net7.0/ref/RaceSim.dll
