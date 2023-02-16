@@ -2,8 +2,13 @@ namespace RaceSim;
 
 public interface IParticipant
 { 
-    string Name { get; set; }
-    int Points { get; set; }
-    IEquipment Equipment { get; set; }
-    TeamColors TeamColors { get; set; }
+    public string Name { get; set; }
+    public int Points { get; set; }
+    public IEquipment Equipment { get; set; }
+    public TeamColors TeamColors { get; set; }
+
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Test");
+    }
 }
