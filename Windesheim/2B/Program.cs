@@ -12,5 +12,7 @@ public class Program
         Speedboot speedboot = new Speedboot("Valk-boot", 10);
         speedboot.Sturen("rechts");
         
+        Console.WriteLine(Weekdagen.Dinsdag);
+
     }
 }
