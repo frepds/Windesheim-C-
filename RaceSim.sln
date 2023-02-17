@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceSim", "RaceSim\RaceSim.csproj", "{250EBFCB-D5A6-4BA7-87F3-243B41CF3DEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windesheim", "Windesheim\Windesheim.csproj", "{05FF56F0-D461-4685-8655-412E7F476D8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{250EBFCB-D5A6-4BA7-87F3-243B41CF3DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{250EBFCB-D5A6-4BA7-87F3-243B41CF3DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{250EBFCB-D5A6-4BA7-87F3-243B41CF3DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FF56F0-D461-4685-8655-412E7F476D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FF56F0-D461-4685-8655-412E7F476D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FF56F0-D461-4685-8655-412E7F476D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FF56F0-D461-4685-8655-412E7F476D8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

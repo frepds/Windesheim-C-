@@ -1,0 +1,15 @@
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/bin/Debug/net7.0/Watersport
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/bin/Debug/net7.0/Watersport.deps.json
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/bin/Debug/net7.0/Watersport.runtimeconfig.json
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/bin/Debug/net7.0/Watersport.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/bin/Debug/net7.0/Watersport.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/Watersport.csproj.AssemblyReference.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/Watersport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/Watersport.AssemblyInfoInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/Watersport.AssemblyInfo.cs
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/Watersport.csproj.CoreCompileInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/Watersport.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/refint/Watersport.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/Watersport.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/Watersport.genruntimeconfig.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Watersport/obj/Debug/net7.0/ref/Watersport.dll
