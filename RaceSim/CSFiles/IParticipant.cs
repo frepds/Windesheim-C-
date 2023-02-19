@@ -6,9 +6,4 @@ public interface IParticipant
     public int Points { get; set; }
     public IEquipment Equipment { get; set; }
     public TeamColors TeamColors { get; set; }
-
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Test");
-    }
 }
