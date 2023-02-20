@@ -7,6 +7,6 @@ public class Competition
 
     public Track NextTrack()
     {
-        return new Track();
+        return new Track("Track", new []{"left", "right", "middle"});
     }
 }
