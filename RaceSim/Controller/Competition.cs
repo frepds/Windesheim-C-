@@ -5,8 +5,8 @@ public class Competition
     public List<IParticipant> Participants { get; set; }
     public Queue<Track> Tracks { get; set; }
 
-    public Track NextTrack()
-    {
-        return new Track("Track", new []{"left", "right", "middle"});
-    }
+    //public public Track NextTrack()
+    //{
+       // return new Track("Track", new []{"left", "right", "middle"});
+   // }
 }

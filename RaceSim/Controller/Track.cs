@@ -8,7 +8,7 @@ public class Track
     public Track(string name, SectionTypes[] sections)
     {
         this.name = name;
-        Sections = sections;
+        //Sections = sections;
     }
     
 }
