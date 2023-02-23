@@ -2,13 +2,13 @@ namespace RaceSim;
 
 public class Track
 {
-    public string name { get; set; }
+    public string Name { get; set; }
     public LinkedList<Section> Sections { get; set; }
 
     public Track(string name, SectionTypes[] sections)
     {
-        this.name = name;
-        //Sections = sections;
+        Name = name;
+        Sections = InitializeSections(sections);
     }
     
 }

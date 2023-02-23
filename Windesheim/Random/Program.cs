@@ -32,7 +32,9 @@ namespace Windesheim.Random
             
             //Console.WriteLine("-----");
             //ggd(50,35);
-            opgave6();
+            //opgave6();
+            List();
+            Console.ReadKey();
         }
 
         static void opgave6()
