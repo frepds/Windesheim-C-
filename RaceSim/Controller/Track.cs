@@ -8,7 +8,10 @@ public class Track
     public Track(string name, SectionTypes[] sections)
     {
         Name = name;
-        Sections = InitializeSections(sections);
+        foreach (var sectie in sections)
+        {
+            Section section = new Section(sectie);
+            Sections?.AddLast(section);
+        }
     }
-    
 }

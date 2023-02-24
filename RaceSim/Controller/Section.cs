@@ -1,6 +1,6 @@
 namespace RaceSim;
 
-public class Section : SectionTypes
+public class Section
 {
     public SectionTypes SectionType { get; set; }
 
