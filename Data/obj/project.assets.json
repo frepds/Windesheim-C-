@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/RaceSim.csproj",
-      "projectName": "RaceSim",
-      "projectPath": "/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/RaceSim.csproj",
+      "projectUniqueName": "/Users/frederiksmits/RiderProjects/RaceSim/Data/Data.csproj",
+      "projectName": "Data",
+      "projectPath": "/Users/frederiksmits/RiderProjects/RaceSim/Data/Data.csproj",
       "packagesPath": "/Users/frederiksmits/.nuget/packages/",
-      "outputPath": "/Users/frederiksmits/RiderProjects/RaceSim/RaceSim/obj/",
+      "outputPath": "/Users/frederiksmits/RiderProjects/RaceSim/Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/frederiksmits/.nuget/NuGet/NuGet.Config"
