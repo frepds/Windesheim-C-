@@ -11,4 +11,19 @@ public class Calculator
     {
         return x - y;
     }
+
+    public static int Multiply(int x, int y)
+    {
+        return x * y;
+    }
+
+    public static int Division(int x, int y)
+    {
+        return x / y;
+    }
+
+    public static int Modulo(int x, int y)
+    {
+        return x % y;
+    }
 }
