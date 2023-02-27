@@ -2,7 +2,7 @@ namespace Data;
 
 public class Program
 {
-    static void Main(string[] args)
+    static void Rectangular()
     {
         int[,]? rectangular;
         rectangular = new int[,]
@@ -11,7 +11,6 @@ public class Program
             {27, 27, 25, 22, 20, 10, 20 }, 
             {21, 23, 23, 0, 0, 0, 0}
         };
-
         var x = 0;
         foreach (var a in rectangular)
         {
@@ -27,9 +26,10 @@ public class Program
                 Console.Write($"|{a}");
             }
         }
-        
-        Console.WriteLine();
-        
+    }
+
+    static void Jagged()
+    {
         int[][] jagged = new int[3][];
         jagged[0] = new[] {21,19,17,23,25,25,28};
         jagged[1] = new[] {27,27,25,22,20,10,20};
@@ -50,5 +50,13 @@ public class Program
             }
             Console.WriteLine();
         }
+    }
+    
+    static void Main(string[] args)
+    {
+        Rectangular();
+        Console.WriteLine();
+        Jagged();
+
     }
 }

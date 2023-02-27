@@ -5,7 +5,7 @@ namespace Windesheim.Random
 {
     public class Program
     {
-        static void Main(string[] args)
+        static void notMain(string[] args)
         {
             //car car1 = new car();
             //car1.speed = 200;
