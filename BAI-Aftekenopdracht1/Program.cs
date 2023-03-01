@@ -10,7 +10,10 @@ public class Program
 
         Queue<int> queue = Aftekenopdracht1.Opdr2AQueue50();
         Stack<int> stack = Aftekenopdracht1.Opdr2BStackFromQueue(queue);
-        Console.WriteLine(stack);
+        foreach (var s in stack)
+        {
+            Console.Write($"{s} ");
+        }
 
         //Stack st = new Stack();
 

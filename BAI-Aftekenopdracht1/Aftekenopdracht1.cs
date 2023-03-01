@@ -43,7 +43,13 @@ public class Aftekenopdracht1
 
     public static Stack<int> Opdr3RandomNumbers(int lower, int upper, int count)
     {
-        
+        Random r = new Random();
+        var n = 1;
+        do
+        {
+            int number = r.Next(lower, upper);
+            
+        } while (n < count);
         return null;
     }
     
