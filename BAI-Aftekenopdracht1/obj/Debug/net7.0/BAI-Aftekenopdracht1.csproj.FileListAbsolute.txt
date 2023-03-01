@@ -1,0 +1,15 @@
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/bin/Debug/net7.0/BAI-Aftekenopdracht1
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/bin/Debug/net7.0/BAI-Aftekenopdracht1.deps.json
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/bin/Debug/net7.0/BAI-Aftekenopdracht1.runtimeconfig.json
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/bin/Debug/net7.0/BAI-Aftekenopdracht1.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/bin/Debug/net7.0/BAI-Aftekenopdracht1.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/BAI-Aftekenopdracht1.csproj.AssemblyReference.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/BAI-Aftekenopdracht1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/BAI-Aftekenopdracht1.AssemblyInfoInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/BAI-Aftekenopdracht1.AssemblyInfo.cs
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/BAI-Aftekenopdracht1.csproj.CoreCompileInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/BAI-Aftekenopdracht1.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/refint/BAI-Aftekenopdracht1.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/BAI-Aftekenopdracht1.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/BAI-Aftekenopdracht1.genruntimeconfig.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI-Aftekenopdracht1/obj/Debug/net7.0/ref/BAI-Aftekenopdracht1.dll

@@ -5,11 +5,19 @@ using NUnit.Framework;
 
 public class Tests
 {
-      [Test] 
-      public void AddingTest()
-      { 
-          Assert.That(Calculator.Add(2,2), Is.EqualTo(4));
-      }
+    //Assert.That(Calculator.Add(), Is.EqualTo());
+    [Test] 
+    public void AddingTest()
+    {
+        Assert.Multiple(() =>
+        {
+            Assert.That(Calculator.Add(1,1), Is.EqualTo(2));
+            Assert.That(Calculator.Add(2,2), Is.EqualTo(4)); 
+            Assert.That(Calculator.Add(3,3), Is.EqualTo(6));
+            Assert.That(Calculator.Add(4,4), Is.EqualTo(8));
+            Assert.That(Calculator.Add(5,5), Is.EqualTo(10));
+        });
+    }
         
       [Test] 
       public void SubtractingTest()
