@@ -31,7 +31,7 @@ public class Program
         } while (true);
     }
     
-    static void Main(string[] args)
+    static void notMain(string[] args)
     {
         method();
         Console.WriteLine("<--->");
