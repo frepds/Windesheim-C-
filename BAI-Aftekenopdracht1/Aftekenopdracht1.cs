@@ -5,14 +5,6 @@ public class Aftekenopdracht1
     public static void Opg1FilterList(List<int> lijst)
     {
         Dictionary<int, int> dictionary = new Dictionary<int, int>();
-        int num = 0;
-        foreach (var list in lijst)
-        {
-            dictionary.Add(num, lijst[num]);
-            Console.WriteLine(num + " " + lijst[num]);
-            num++;
-        }
-        
         
     }
 
@@ -42,15 +34,37 @@ public class Aftekenopdracht1
     }
 
     public static Stack<int> Opdr3RandomNumbers(int lower, int upper, int count)
-    {
-        Random r = new Random();
-        var n = 1;
+    { 
+        var r = new Random();
+        int counter = 0;
+
+        Stack<int> s = new Stack<int>();
+
         do
         {
-            int number = r.Next(lower, upper);
-            
-        } while (n < count);
-        return null;
+            var generated = r.Next(lower, (upper + 1));
+            if (s.Contains(generated))
+            {
+                bool run = true;
+                do
+                {
+                    var newGenerated = r.Next(lower, upper);
+                    if (!s.Contains(newGenerated))
+                    {
+                        s.Push(newGenerated);
+                        run = false;
+                    }
+                } while (run);
+                Console.WriteLine("[CONTAINS] " + (counter + 1) + ": " + generated);
+            }
+            else
+            {
+                s.Push(generated);
+            }
+            //Console.WriteLine((counter + 1) + ": " + generated);
+            counter++;
+        } while (counter < count);
+        return s;
     }
     
 }
