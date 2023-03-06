@@ -3,47 +3,48 @@ namespace BAI_Aftekenopdracht1;
 public class Aftekenopdracht1
 {
     public static void Opg1FilterList(List<int> lijst)
-    {
+    { 
         Dictionary<int, int> dictionary = new Dictionary<int, int>();
         var i = lijst.Count;
         var j = 0;
-
+        
         // Fill
         while (i > 0)
         {
             dictionary.Add(j, lijst[j]);
             j++; i--;
         }
-
+       
+        // Reset
+        i = lijst.Count;
+        j = 0;
+        
         // Remove
         while (i > 0)
         {
-            var num = lijst[j];
-            var count = 0;
-            while (i > 0)
-            {
-                if (lijst[j].Equals(num))
+           int length = lijst.Count(), comparison = 0;
+           var num = dictionary[j];
+           var count = 0;
+           //Console.WriteLine(num);
+        
+           while (length > 0)
+           {
+                if (dictionary[comparison].Equals(num))
                 {
                     count++;
                 }
-                j++; i--;
-            }
-            
-            
-            if (dictionary.ContainsValue(lijst[j]))
-            {
-                
-            }
-            
-            
-            // if (j > 0 && dictionary.ContainsValue(lijst[j]))
-            // {
-            //     Console.Write(lijst[j] + " ");
-            // }
-            // dictionary.Add(j, lijst[j]);
-            j++; i--;
+                comparison++;
+                length--;
+           }
+        
+           if (count <= 1)
+           {
+               dictionary.Remove(j);
+           }
+           
+           j++; i--; 
+           count = 0; 
         }
-
     }
 
     public static Queue<int> Opdr2AQueue50()
@@ -51,7 +52,7 @@ public class Aftekenopdracht1
         Queue<int> queue = new Queue<int>();
         for (var i = 1; i <= 50; i++)
         {
-            queue.Enqueue(i);
+            queue.Enqueue(i); 
         }
         
         return queue;
@@ -102,5 +103,4 @@ public class Aftekenopdracht1
         } while (counter < count);
         return s;
     }
-    
 }
