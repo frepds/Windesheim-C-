@@ -1,0 +1,15 @@
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/bin/Debug/net7.0/Algoritmiek
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/bin/Debug/net7.0/Algoritmiek.deps.json
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/bin/Debug/net7.0/Algoritmiek.runtimeconfig.json
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/bin/Debug/net7.0/Algoritmiek.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/bin/Debug/net7.0/Algoritmiek.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/Algoritmiek.csproj.AssemblyReference.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/Algoritmiek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/Algoritmiek.AssemblyInfoInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/Algoritmiek.AssemblyInfo.cs
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/Algoritmiek.csproj.CoreCompileInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/Algoritmiek.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/refint/Algoritmiek.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/Algoritmiek.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/Algoritmiek.genruntimeconfig.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/Algoritmiek/obj/Debug/net7.0/ref/Algoritmiek.dll
