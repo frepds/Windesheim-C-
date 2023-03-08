@@ -1,0 +1,15 @@
+C:\Users\frede\RiderProjects\RaceSim\Les5B\bin\Debug\net7.0\Les5B.exe
+C:\Users\frede\RiderProjects\RaceSim\Les5B\bin\Debug\net7.0\Les5B.deps.json
+C:\Users\frede\RiderProjects\RaceSim\Les5B\bin\Debug\net7.0\Les5B.runtimeconfig.json
+C:\Users\frede\RiderProjects\RaceSim\Les5B\bin\Debug\net7.0\Les5B.dll
+C:\Users\frede\RiderProjects\RaceSim\Les5B\bin\Debug\net7.0\Les5B.pdb
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.csproj.AssemblyReference.cache
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.AssemblyInfoInputs.cache
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.AssemblyInfo.cs
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.csproj.CoreCompileInputs.cache
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.dll
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\refint\Les5B.dll
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.pdb
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.genruntimeconfig.cache
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\ref\Les5B.dll
