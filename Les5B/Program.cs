@@ -18,6 +18,8 @@ public class Program
     
     public static void Main(string[] args)
     {
-        Program p = new Program();
+        //Program p = new Program();
+        PrintValues p = new PrintValues();
+        Console.ReadKey();
     }
 }
