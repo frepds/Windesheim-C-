@@ -1,0 +1,15 @@
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\bin\Debug\net7.0\Oefenpracticum.exe
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\bin\Debug\net7.0\Oefenpracticum.deps.json
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\bin\Debug\net7.0\Oefenpracticum.runtimeconfig.json
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\bin\Debug\net7.0\Oefenpracticum.dll
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\bin\Debug\net7.0\Oefenpracticum.pdb
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.csproj.AssemblyReference.cache
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.AssemblyInfoInputs.cache
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.AssemblyInfo.cs
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.csproj.CoreCompileInputs.cache
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.dll
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\refint\Oefenpracticum.dll
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.pdb
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.genruntimeconfig.cache
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\ref\Oefenpracticum.dll
