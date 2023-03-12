@@ -6,24 +6,35 @@ public class Aftekenopdracht1
 {
     public static void Opg1FilterList(List<int> lijst)
     { 
-        Dictionary<int, int> dictionary = new Dictionary<int, int>();
-        int count = 0;
-        
-        foreach (var n in lijst)
+        var dictionary = new Dictionary<int, int>(); 
+        var count = 0;
+
+        while (count < lijst.Count)
         {
-            dictionary.Add(count, n);
+            if (!dictionary.ContainsValue(lijst[count]))
+            {
+                
+            }
+            //dictionary.Add(count, dictionary.ContainsValue(lijst[count]) ? lijst[count] : 1234);
             count++;
         }
 
+        count = 0;
         List<int> l = new List<int>();
-
-        int i = 0;
-        while (i < dictionary.Count)
+        while (count < dictionary.Count)
         {
-            l.Add(dictionary[i]);
-            i++;
+            if (!dictionary.ContainsValue(1234))
+            {
+                l.Add(dictionary[count]);
+                
+            }
+            count++;
         }
-        
+
+        foreach (var n in l)
+        {
+            Console.WriteLine(n);
+        }
 
     }
 
