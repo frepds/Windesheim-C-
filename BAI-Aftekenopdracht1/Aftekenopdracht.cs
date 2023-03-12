@@ -7,46 +7,24 @@ public class Aftekenopdracht1
     public static void Opg1FilterList(List<int> lijst)
     { 
         Dictionary<int, int> dictionary = new Dictionary<int, int>();
-        var i = lijst.Count;
-        var j = 0;
+        int count = 0;
         
-        // Fill
-        while (i > 0)
+        foreach (var n in lijst)
         {
-            dictionary.Add(j, lijst[j]);
-            j++; i--;
+            dictionary.Add(count, n);
+            count++;
         }
-       
-        // Reset
-        i = lijst.Count;
-        j = 0;
-        
-        // Remove
-        while (i > 0)
+
+        List<int> l = new List<int>();
+
+        int i = 0;
+        while (i < dictionary.Count)
         {
-           int length = lijst.Count(), comparison = 0;
-           var num = dictionary[j];
-           var count = 0;
-           //Console.WriteLine(num);
-        
-           while (length > 0)
-           {
-                if (dictionary[comparison].Equals(num))
-                {
-                    count++;
-                }
-                comparison++;
-                length--;
-           }
-        
-           if (count <= 1)
-           {
-               dictionary.Remove(j);
-           }
-           
-           j++; i--; 
-           count = 0; 
+            l.Add(dictionary[i]);
+            i++;
         }
+        
+
     }
 
     public static Queue<int> Opdr2AQueue50()

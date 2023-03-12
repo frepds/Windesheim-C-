@@ -5,12 +5,12 @@ public class Program
     static void Main(string[] args)
     {
         // Opgave 1
-        // Console.WriteLine("Opgave 1");
-        // List<int> list = new List<int> { 1, 3, 5, 7, 3, 8, 9, 5 };
-        // Aftekenopdracht1.Opg1FilterList(list);
+        Console.WriteLine("Opgave 1");
+        List<int> list = new List<int> { 1, 3, 5, 7, 3, 8, 9, 5 };
+        Aftekenopdracht1.Opg1FilterList(list);
 
         // Opgave 2
-        Console.WriteLine("\nOpgave 2:");
+        Console.WriteLine("Opgave 2:");
         Queue<int> queue = Aftekenopdracht1.Opdr2AQueue50();
         Stack<int> stack = Aftekenopdracht1.Opdr2BStackFromQueue(queue);
         foreach (var s in stack)
