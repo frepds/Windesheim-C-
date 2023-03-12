@@ -1,4 +1,6 @@
-namespace BAI_Aftekenopdracht1;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 public class Aftekenopdracht1
 {
@@ -81,7 +83,7 @@ public class Aftekenopdracht1
 
         do
         {
-            var generated = r.Next(lower, (upper + 1));
+            var generated = r.Next(lower, upper + 1);
             if (s.Contains(generated))
             {
                 bool run = true;

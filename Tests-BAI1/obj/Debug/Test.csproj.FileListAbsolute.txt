@@ -1,0 +1,9 @@
+C:\Users\frede\RiderProjects\RaceSim\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\frede\RiderProjects\RaceSim\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\frede\RiderProjects\RaceSim\Test\bin\Debug\Test.dll
+C:\Users\frede\RiderProjects\RaceSim\Test\bin\Debug\Test.pdb
+C:\Users\frede\RiderProjects\RaceSim\Test\bin\Debug\nunit.framework.dll
+C:\Users\frede\RiderProjects\RaceSim\Test\bin\Debug\nunit.framework.xml
+C:\Users\frede\RiderProjects\RaceSim\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\frede\RiderProjects\RaceSim\Test\obj\Debug\Test.dll
+C:\Users\frede\RiderProjects\RaceSim\Test\obj\Debug\Test.pdb

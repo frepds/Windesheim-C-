@@ -1,0 +1,9 @@
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\bin\Debug\Tests-BAI1.dll
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\bin\Debug\Tests-BAI1.pdb
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\bin\Debug\nunit.framework.dll
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\bin\Debug\nunit.framework.xml
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\obj\Debug\Tests-BAI1.csproj.AssemblyReference.cache
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\obj\Debug\Tests-BAI1.csproj.CoreCompileInputs.cache
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\obj\Debug\Tests-BAI1.csproj.CopyComplete
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\obj\Debug\Tests-BAI1.dll
+C:\Users\frede\RiderProjects\RaceSim\Tests-BAI1\obj\Debug\Tests-BAI1.pdb
