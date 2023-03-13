@@ -8,10 +8,23 @@ public class Aftekenopdracht1
     // Opgave 1
     public static void Opg1FilterList(List<int> lijst)
     {
+        //List<int> l = new List<int>();
+        //Dictionary<int, int> d1 = new Dictionary<int, int>();
+
+        //int counter = 0;
+
+        //while (counter < lijst.Count)
+        //{
+          //  l.Add(lijst[counter]);
+            
+            //counter++;
+        //}
+        
+        
         Dictionary<int, int> count = new Dictionary<int, int>();
 
         // Count the occurrences of each number
-        foreach (var num in lijst)
+        foreach (int num in lijst)
         {
             if (count.ContainsKey(num))
             {
@@ -24,10 +37,10 @@ public class Aftekenopdracht1
         }
 
         // Remove numbers that occur only once
-        var i = 0;
+        int i = 0;
         while (i < lijst.Count)
         {
-            var num = lijst[i];
+            int num = lijst[i];
             if (count[num] == 1)
             {
                 lijst.RemoveAt(i);

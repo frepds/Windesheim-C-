@@ -1,0 +1,15 @@
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll

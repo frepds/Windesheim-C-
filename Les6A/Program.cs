@@ -1,16 +1,18 @@
 namespace Les6A;
 
-public delegate bool Method(int i, int j);
 
 public class Program
 {
+    public Action<string> ToespraakHouden;
+    
     public Program()
     {
-        Method isKleiner = (i, i1) => Method(i, i1);
+        ToespraakHouden = (string woorden) => Console.WriteLine($"Toespraak: {woorden}");
+        ToespraakHouden("Beste vrienden, ik ben blij hier vandaag te zijn.");
     }
     
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello world");
+        Program p = new Program();
     }
 }
