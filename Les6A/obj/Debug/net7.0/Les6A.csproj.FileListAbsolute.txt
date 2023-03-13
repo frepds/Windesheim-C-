@@ -1,0 +1,15 @@
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/bin/Debug/net7.0/Les6A
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/bin/Debug/net7.0/Les6A.deps.json
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/bin/Debug/net7.0/Les6A.runtimeconfig.json
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/bin/Debug/net7.0/Les6A.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/bin/Debug/net7.0/Les6A.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/Les6A.csproj.AssemblyReference.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/Les6A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/Les6A.AssemblyInfoInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/Les6A.AssemblyInfo.cs
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/Les6A.csproj.CoreCompileInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/Les6A.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/refint/Les6A.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/Les6A.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/Les6A.genruntimeconfig.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Les6A/obj/Debug/net7.0/ref/Les6A.dll

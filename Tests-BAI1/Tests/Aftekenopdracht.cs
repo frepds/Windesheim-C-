@@ -6,7 +6,7 @@ public class Aftekenopdracht1
 {
     // Opgave 1
     public static void Opg1FilterList(List<int> lijst)
-    { 
+    {
         Dictionary<int, int> dictionary = new Dictionary<int, int>();
 
         foreach (var n in lijst)

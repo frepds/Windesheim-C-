@@ -58,15 +58,19 @@ public class PrintValues
                 {
                         for (j = 1; j <= i; j++)
                         {
-                                if (items[j - 1] > items[j])
+                                if (GreaterThan(i - 1, j).Equals(true))
                                 {
                                         temp = items[j - 1];
-                                        items[j - 1] = items[j];
-                                        items[j] = temp;
-                                }  
-                        }
+                                        items[j - 1] = items[j]; 
+                                        items[j] = temp; 
+                                }
+                                //if (items[j - 1] > items[j])
+                                //{
+                                //      temp = items[j - 1];
+                                //      items[j - 1] = items[j];
+                                //      items[j] = temp;
+                                //}  
+                        } 
                 }
-                
         }
-        
 }

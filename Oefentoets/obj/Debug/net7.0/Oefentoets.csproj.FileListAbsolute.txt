@@ -1,0 +1,15 @@
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/bin/Debug/net7.0/Oefentoets
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/bin/Debug/net7.0/Oefentoets.deps.json
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/bin/Debug/net7.0/Oefentoets.runtimeconfig.json
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/bin/Debug/net7.0/Oefentoets.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/bin/Debug/net7.0/Oefentoets.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/Oefentoets.csproj.AssemblyReference.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/Oefentoets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/Oefentoets.AssemblyInfoInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/Oefentoets.AssemblyInfo.cs
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/Oefentoets.csproj.CoreCompileInputs.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/Oefentoets.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/refint/Oefentoets.dll
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/Oefentoets.pdb
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/Oefentoets.genruntimeconfig.cache
+/Users/frederiksmits/RiderProjects/RaceSim/Oefentoets/obj/Debug/net7.0/ref/Oefentoets.dll
