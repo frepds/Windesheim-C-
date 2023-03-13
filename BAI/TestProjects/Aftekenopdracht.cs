@@ -139,36 +139,3 @@ public class Aftekenopdracht1
 //       }
 //   }
 
-// Opgave 3
-
-// public static Stack<int> Opdr3RandomNumbers(int lower, int upper, int count)
-// { 
-//     var r = new Random();
-//     var counter = 0;
-//
-//     Stack<int> s = new Stack<int>();
-//
-//     do
-//     {
-//         var generated = r.Next(lower, upper + 1);
-//         if (s.Contains(generated))
-//         {
-//             bool run = true;
-//             do
-//             {
-//                 var newGenerated = r.Next(lower, upper);
-//                 if (!s.Contains(newGenerated))
-//                 {
-//                     s.Push(newGenerated);
-//                     run = false;
-//                 }
-//             } while (run);
-//         }
-//         else
-//         {
-//             s.Push(generated);
-//         }
-//         counter++;
-//     } while (counter < count);
-//     return s;
-// }

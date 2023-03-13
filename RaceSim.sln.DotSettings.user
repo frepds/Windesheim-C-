@@ -6,25 +6,25 @@
 	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1114112</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/RunBuildOnSolutionLoaded/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/ShouldRestoreNugetPackages/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4bfdafe2_002Ddada_002D49ae_002Dac85_002Da19835129758/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Opdr1Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::64AFC4F9-B607-4C4F-8DD1-B8EAA778EBE0::.NETFramework,Version=v4.8::BAI.Opdr1Tests&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4bfdafe2_002Ddada_002D49ae_002Dac85_002Da19835129758/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Opdr1Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::64AFC4F9-B607-4C4F-8DD1-B8EAA778EBE0::.NETFramework,Version=v4.8::BAI.Opdr1Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8022850d_002D3b14_002D42e5_002D9445_002D9b1aa2e62c22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Opdr2Tests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Or&gt;
-    &lt;ProjectFile&gt;64AFC4F9-B607-4C4F-8DD1-B8EAA778EBE0/d:Tests/f:Opdr2Tests.cs&lt;/ProjectFile&gt;
-    &lt;ProjectFile&gt;64AFC4F9-B607-4C4F-8DD1-B8EAA778EBE0/d:Tests/f:Opdr3Tests.cs&lt;/ProjectFile&gt;
-    &lt;TestAncestor&gt;
-      &lt;TestId&gt;NUnit3x::64AFC4F9-B607-4C4F-8DD1-B8EAA778EBE0::.NETFramework,Version=v4.8::BAI.Opdr1Tests&lt;/TestId&gt;
-    &lt;/TestAncestor&gt;
-  &lt;/Or&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8022850d_002D3b14_002D42e5_002D9445_002D9b1aa2e62c22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Opdr2Tests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;64AFC4F9-B607-4C4F-8DD1-B8EAA778EBE0/d:Tests/f:Opdr2Tests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;64AFC4F9-B607-4C4F-8DD1-B8EAA778EBE0/d:Tests/f:Opdr3Tests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::64AFC4F9-B607-4C4F-8DD1-B8EAA778EBE0::.NETFramework,Version=v4.8::BAI.Opdr1Tests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cd79dd7a_002D151e_002D4a6e_002Db452_002De9ee721eb161/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Opdr1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Solution /&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cd79dd7a_002D151e_002D4a6e_002Db452_002De9ee721eb161/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Opdr1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8619a1b_002Da291_002D4bb7_002Db265_002D5996bb9cd896/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Opdr1Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;ProjectFile&gt;2F6F81D1-9178-4A02-B31D-F78931BD9482/f:Opdr1Tests.cs&lt;/ProjectFile&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8619a1b_002Da291_002D4bb7_002Db265_002D5996bb9cd896/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Opdr1Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\frede\RiderProjects\RaceSim\BAI\TestProjects" Presentation="&amp;lt;BAI&amp;gt;\&amp;lt;TestProjects&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
 	

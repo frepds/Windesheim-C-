@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQ3+uId0EpSA0BfUorJNhPQHk53G1Ncz9ZqIYP2N9UUAZ61evZyZUrca5T9/Pys2HxQjo+nb3zJO6AhmZxhDYw==",
+  "dgSpecHash": "HakuQmjFkpRJMSNX+wpkw6dKrOFa7tFi7xu4ojYO3SP5+ru8yLQAAvpZBeZYAyLFNB8WKGLAV4XKu3Py7S1dTw==",
   "success": true,
-  "projectFilePath": "/Users/frederiksmits/RiderProjects/RaceSim/BAI/ConsoleApp/ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\BAI\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
