@@ -28,3 +28,5 @@ C:\Users\frede\RiderProjects\RaceSim\BAI\ConsoleApp\obj\Debug\net7.0\refint\Cons
 C:\Users\frede\RiderProjects\RaceSim\BAI\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
 C:\Users\frede\RiderProjects\RaceSim\BAI\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\BAI\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
+C:\Users\frede\RiderProjects\RaceSim\BAI\ConsoleApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\BAI\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CopyComplete

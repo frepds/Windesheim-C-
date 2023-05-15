@@ -28,3 +28,5 @@ C:\Users\frede\RiderProjects\RaceSim\Oefentoets\obj\Debug\net7.0\refint\Oefentoe
 C:\Users\frede\RiderProjects\RaceSim\Oefentoets\obj\Debug\net7.0\Oefentoets.pdb
 C:\Users\frede\RiderProjects\RaceSim\Oefentoets\obj\Debug\net7.0\Oefentoets.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\Oefentoets\obj\Debug\net7.0\ref\Oefentoets.dll
+C:\Users\frede\RiderProjects\RaceSim\Oefentoets\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\Oefentoets\obj\Debug\net7.0\Oefentoets.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RWNzHmKLaEmbBkpaJ2Ia7Ddl6jgOsjx8MVasZtX2DkFJdr8KY6rqRgTzFH8bIpV4w270/y9hKEloh7wLSi0/LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\TestMain\\TestMain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

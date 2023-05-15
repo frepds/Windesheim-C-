@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E7TOXR4x2HQl2KoKkHGYU8UhMab/ecr/ZMEWT/dpkhnlvwNPzTPsU8e95H4+e8nlHF8Y5c9jKK3De6RxYH1yCw==",
+  "dgSpecHash": "vk7SvGz14E8LAHTj7UfB2LYtCF5sIPMS5yaIlUEC09coM18QB3/uRlErBvgC4j6W11EvkvVj5j7M4wBFQ8bI0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\Oefentoets\\Oefentoets.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

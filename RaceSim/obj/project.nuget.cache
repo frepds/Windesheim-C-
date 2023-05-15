@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gb2vT5gMdmPu742VqyWAbWBNhmWB5EiFbloii4Vk/xQjQizPrknRDHAIj2Dga4K/jiblTMy0B4M4uZ9ky+nOoA==",
+  "dgSpecHash": "8tC/amymHKGp18f24eeDPqu//WWxg+YexHx9JrjJJY9KW0+ef+IsNEqXVDJ2bHmo87y+tUBqfgaZQ0TKLRUKSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\RaceSim\\RaceSim.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

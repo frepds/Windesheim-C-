@@ -28,3 +28,5 @@ C:\Users\frede\RiderProjects\RaceSim\BAI\Algoritmiek\obj\Debug\net7.0\refint\Alg
 C:\Users\frede\RiderProjects\RaceSim\BAI\Algoritmiek\obj\Debug\net7.0\Algoritmiek.pdb
 C:\Users\frede\RiderProjects\RaceSim\BAI\Algoritmiek\obj\Debug\net7.0\Algoritmiek.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\BAI\Algoritmiek\obj\Debug\net7.0\ref\Algoritmiek.dll
+C:\Users\frede\RiderProjects\RaceSim\BAI\Algoritmiek\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\BAI\Algoritmiek\obj\Debug\net7.0\Algoritmiek.csproj.CopyComplete

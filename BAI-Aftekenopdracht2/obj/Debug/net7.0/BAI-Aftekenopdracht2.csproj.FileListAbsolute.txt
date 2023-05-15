@@ -28,3 +28,5 @@ C:\Users\frede\RiderProjects\RaceSim\BAI-Aftekenopdracht2\obj\Debug\net7.0\refin
 C:\Users\frede\RiderProjects\RaceSim\BAI-Aftekenopdracht2\obj\Debug\net7.0\BAI-Aftekenopdracht2.pdb
 C:\Users\frede\RiderProjects\RaceSim\BAI-Aftekenopdracht2\obj\Debug\net7.0\BAI-Aftekenopdracht2.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\BAI-Aftekenopdracht2\obj\Debug\net7.0\ref\BAI-Aftekenopdracht2.dll
+C:\Users\frede\RiderProjects\RaceSim\BAI-Aftekenopdracht2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\BAI-Aftekenopdracht2\obj\Debug\net7.0\BAI-Aftekenopdracht2.csproj.CopyComplete

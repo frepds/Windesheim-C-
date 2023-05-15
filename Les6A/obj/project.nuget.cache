@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HORpVG+UKmM6KI+gWO9Ntmj2pUT6e6Xl3EALLdQ10pp0rX12A2fnLUbUI3AcP3XAOYG1kylMooBUQm2oO1dxmg==",
+  "dgSpecHash": "dy0NCKAMcJGY6c/pFT+bWtiiWu0Mc0evvrBK0QJJH1hyjwKSGlSoaDiR/BFWS0aalLK+AzeHRFKhyicK0XLwDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\Les6A\\Les6A.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

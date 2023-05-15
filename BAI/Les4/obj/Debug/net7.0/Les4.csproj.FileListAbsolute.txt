@@ -13,3 +13,5 @@ C:\Users\frede\RiderProjects\RaceSim\BAI\Les4\obj\Debug\net7.0\refint\Les4.dll
 C:\Users\frede\RiderProjects\RaceSim\BAI\Les4\obj\Debug\net7.0\Les4.pdb
 C:\Users\frede\RiderProjects\RaceSim\BAI\Les4\obj\Debug\net7.0\Les4.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\BAI\Les4\obj\Debug\net7.0\ref\Les4.dll
+C:\Users\frede\RiderProjects\RaceSim\BAI\Les4\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\BAI\Les4\obj\Debug\net7.0\Les4.csproj.CopyComplete

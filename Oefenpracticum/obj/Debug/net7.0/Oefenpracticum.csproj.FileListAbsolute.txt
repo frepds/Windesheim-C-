@@ -28,3 +28,5 @@ C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\refint\Oefe
 C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.pdb
 C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\ref\Oefenpracticum.dll
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\Oefenpracticum\obj\Debug\net7.0\Oefenpracticum.csproj.CopyComplete

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DqJJDdqVZ1+tcISOxQd530ozqY8UTGfayITrNB9lVPhzDQXGXzV3aHLq/MMgA+ZIG8VMVLYtZQ0AestBcLTrDw==",
+  "dgSpecHash": "Izh5/aPrHFYIwJpRMjkE9+k+rF5I/bIUeFXKb9HKpaa57o7+hCPoOSQIepXEXBjiiGYbeCH6dLQQ1/rrMPO/5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\Windesheim\\Windesheim.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

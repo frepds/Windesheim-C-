@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IqDNxiy4jjG8ioPZ0V9rNgl/0LL7ZdSiehBDls+Ty4TLi6MF5vq46Y6H1BellaGRHGEY4wuxuraKxGfoj+gMGg==",
+  "dgSpecHash": "jxEjufKbt7L4A2nEQCNEH+pd3JP8bM56u5RzNH2N8ebxkvPQB/sQ0BBmy9JS+D9BeJ3Yyuxmnm3XgjgmRXKUJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\Les5B\\Les5B.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

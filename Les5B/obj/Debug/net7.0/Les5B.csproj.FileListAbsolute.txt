@@ -28,3 +28,5 @@ C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\refint\Les5B.dll
 C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.pdb
 C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\ref\Les5B.dll
+C:\Users\frede\RiderProjects\RaceSim\Les5B\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\Les5B\obj\Debug\net7.0\Les5B.csproj.CopyComplete

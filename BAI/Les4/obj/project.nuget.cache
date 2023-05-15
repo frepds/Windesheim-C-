@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YBvHfGglBLfEJXOQmjUfJJEiNOKb9mn0PJC0MWExcSZjyLx7n99hfKwMNXqD+lxYYBp1NwSneGGgifE/vJkP1w==",
+  "dgSpecHash": "DtMejN4nxhOwJIuyhuCvEmsWoa8IacgXzqEgaPfx8FLWVaMhgdsvwuF6P+Acpc4g5Pj6LrGpF0IXoflpcvjkhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\BAI\\Les4\\Les4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

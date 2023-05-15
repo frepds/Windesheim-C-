@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TkHsZaiBnQi+4BaEEMsQ+RmAlKHMTBGhBZG/HTb9mJBZFW7LW+Opi9ak9+6SCggBoQ+/yzsyeaUTy28MMjUqVA==",
+  "dgSpecHash": "rE/fQE1XoJqKhtSocad7O9xu30892yQsu9LNXAZNbI5r2erycMTVaK1xPOV3CNYQi6IfrVObswgig24WudIGHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\frede\\RiderProjects\\RaceSim\\Oefenpracticum\\Oefenpracticum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -28,3 +28,5 @@ C:\Users\frede\RiderProjects\RaceSim\Windesheim\obj\Debug\net7.0\refint\Windeshe
 C:\Users\frede\RiderProjects\RaceSim\Windesheim\obj\Debug\net7.0\Windesheim.pdb
 C:\Users\frede\RiderProjects\RaceSim\Windesheim\obj\Debug\net7.0\Windesheim.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\Windesheim\obj\Debug\net7.0\ref\Windesheim.dll
+C:\Users\frede\RiderProjects\RaceSim\Windesheim\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\Windesheim\obj\Debug\net7.0\Windesheim.csproj.CopyComplete

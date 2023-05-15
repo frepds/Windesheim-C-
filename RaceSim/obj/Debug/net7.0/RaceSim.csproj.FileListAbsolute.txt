@@ -28,3 +28,5 @@ C:\Users\frede\RiderProjects\RaceSim\RaceSim\obj\Debug\net7.0\refint\RaceSim.dll
 C:\Users\frede\RiderProjects\RaceSim\RaceSim\obj\Debug\net7.0\RaceSim.pdb
 C:\Users\frede\RiderProjects\RaceSim\RaceSim\obj\Debug\net7.0\RaceSim.genruntimeconfig.cache
 C:\Users\frede\RiderProjects\RaceSim\RaceSim\obj\Debug\net7.0\ref\RaceSim.dll
+C:\Users\frede\RiderProjects\RaceSim\RaceSim\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\frede\RiderProjects\RaceSim\RaceSim\obj\Debug\net7.0\RaceSim.csproj.CopyComplete

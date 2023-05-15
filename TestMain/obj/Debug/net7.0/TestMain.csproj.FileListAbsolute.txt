@@ -1,0 +1,12 @@
+C:\Users\frede\RiderProjects\RaceSim\TestMain\bin\Debug\net7.0\TestMain.deps.json
+C:\Users\frede\RiderProjects\RaceSim\TestMain\bin\Debug\net7.0\TestMain.dll
+C:\Users\frede\RiderProjects\RaceSim\TestMain\bin\Debug\net7.0\TestMain.pdb
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\TestMain.csproj.AssemblyReference.cache
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\TestMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\TestMain.AssemblyInfoInputs.cache
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\TestMain.AssemblyInfo.cs
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\TestMain.csproj.CoreCompileInputs.cache
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\TestMain.dll
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\refint\TestMain.dll
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\TestMain.pdb
+C:\Users\frede\RiderProjects\RaceSim\TestMain\obj\Debug\net7.0\ref\TestMain.dll

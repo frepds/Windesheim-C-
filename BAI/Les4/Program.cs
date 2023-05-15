@@ -1,17 +1,34 @@
 ﻿// Opgave 8
+static void Skip()
+{
+    Console.WriteLine();
+}
+
+static void Break()
+{
+    Console.Write(" ");
+}
+
+
 Console.WriteLine("Opgave 8, geef nu een tekst!\n\nDe ingevoerde tekst is:");
 var s = Console.ReadLine();
 Console.WriteLine("\nEn de tekst na de converie is:\n");
 
 var array = s.Split(" ");
-foreach (var i in array)
+foreach (var n in array)
 {
-    var c = i[0];
-    Console.Write($"{i.Replace(c, char.Parse(c.ToString().ToUpper()))} ");
+    for (int i = 0; i < n.Length; i++)
+    {
+        var c = n[i];
+        if (i == 0)
+        {
+            c = char.Parse(c.ToString().ToUpper());
+        }
+        Console.Write(c);
+    }
+    Break();
 }
-
-Console.WriteLine();
-
+Skip();
 foreach (var n in array)
 {
     for (var i = 0; i < n.Length; i++)
@@ -19,7 +36,7 @@ foreach (var n in array)
         var c = n[i];
         Console.Write(i != 0 ? char.Parse(c.ToString().ToUpper()) : c);
     }
-    Console.Write(" ");
+    Break();
 }
-Console.WriteLine();
+Skip();
 Console.ReadKey();
