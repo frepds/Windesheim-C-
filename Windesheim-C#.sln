@@ -44,6 +44,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{7D14EDE6-5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMain", "TestMain\TestMain.csproj", "{DBA9F719-E378-4BD6-A2A7-3DFD074067C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio", "Audio\Audio.csproj", "{98D37966-9A9B-4F04-B17D-B1ABBC3651EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,6 +116,10 @@ Global
 		{DBA9F719-E378-4BD6-A2A7-3DFD074067C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBA9F719-E378-4BD6-A2A7-3DFD074067C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBA9F719-E378-4BD6-A2A7-3DFD074067C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D37966-9A9B-4F04-B17D-B1ABBC3651EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D37966-9A9B-4F04-B17D-B1ABBC3651EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D37966-9A9B-4F04-B17D-B1ABBC3651EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D37966-9A9B-4F04-B17D-B1ABBC3651EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9EDF5320-D2B0-4D55-83EE-EAF0F8B2BDCF} = {E56E881D-F086-4C4C-B162-BE57FA38F1F1}
